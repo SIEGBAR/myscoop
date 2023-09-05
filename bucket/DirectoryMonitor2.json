@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "2.15.0.7",
+   "description": "文件夹监控。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/DirectoryMonitor2.7z",
+   "hash": "c7efbab805af4999b6a30efbced057896d1141656eeceaeca8a10c001931d09f",
+   "bin": "DirectoryMonitor.exe",
+   "shortcuts": [
+       [
+           "DirectoryMonitor.exe",
+           "DirectoryMonitor"
+       ]
+   ]
+}
