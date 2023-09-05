@@ -3,7 +3,7 @@
    "version": "1.0.0",
    "description": "配合实体放大镜使用的应用。",
    "url": "https://github.com/SIEGBAR/myapps/raw/main/HiView.7z",
-   "hash": "7f43983159c3a3a0f87928e4622483627c895e3be6cd4cb90fbb0c424bbc3a80",
+   "hash": "1cc393ab89f1b344fbd107495ef4e744dc58871326581e0d346fef81627939a6",
    "bin": "HiView.exe",
    "shortcuts": [
        [
