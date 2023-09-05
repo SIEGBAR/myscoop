@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.0.0",
+   "description": "配合实体放大镜使用的应用。",
+   "url": "https://github.com/SIEGBAR/myapps/HiView.7z",
+   "hash": "7f43983159c3a3a0f87928e4622483627c895e3be6cd4cb90fbb0c424bbc3a80",
+   "bin": "HiView.exe",
+   "shortcuts": [
+       [
+           "HiView.exe",
+           "HiView"
+       ]
+   ]
+}
