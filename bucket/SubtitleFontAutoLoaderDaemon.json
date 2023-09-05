@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.0.4",
+   "description": "自动化字体加载工具。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/SubtitleFontAutoLoaderDaemon.7z",
+   "hash": "e3ecab44248937a4e0386e342d583227d5ef87073ef3f8c73c685c70df549ce7",
+   "bin": "SubtitleFontAutoLoaderDaemon.exe",
+   "shortcuts": [
+       [
+           "SubtitleFontAutoLoaderDaemon.exe",
+           "SubtitleFontAutoLoaderDaemon"
+       ]
+   ]
+}

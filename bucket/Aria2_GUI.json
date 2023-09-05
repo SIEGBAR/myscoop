@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.3.4",
+   "description": "下载器。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/Aria2_GUI.7z",
+   "hash": "f01143a9185f8d5cd95a9226f35fd236c62554d5e6db6dd18012208d0b2e788d",
+   "bin": "AriaNg启动器.exe",
+   "shortcuts": [
+       [
+           "AriaNg启动器.exe",
+           "Aria2_GUI"
+       ]
+   ]
+}

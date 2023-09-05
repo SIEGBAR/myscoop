@@ -2,13 +2,13 @@
    "homepage": "https://github.com/SIEGBAR/myapps",
    "version": "1.3.0",
    "description": "搜索并删除空文件夹。",
-   "url": "https://github.com/SIEGBAR/myapps/raw/main/empty-folder-nuker-1.3.0.exe",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/EmptyFolderNuker.exe",
    "hash": "d2fcd834a5e2979ea7d745ed31ef72ee94505b85027428fe57830dfc21397d82",
-   "bin": "empty-folder-nuker-1.3.0.exe",
+   "bin": "EmptyFolderNuker.exe",
    "shortcuts": [
        [
-           "empty-folder-nuker-1.3.0.exe",
-           "empty-folder-nuker-1.3.0"
+           "EmptyFolderNuker.exe",
+           "EmptyFolderNuker"
        ]
    ]
 }

@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "4.3.0.0",
+   "description": "查看波谱。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/WaveEditor.7z",
+   "hash": "e4497c34825f8de2f6e49e8ceef79d5b8ed0082caab093169d6de7ff52de318d",
+   "bin": "editor.exe",
+   "shortcuts": [
+       [
+           "editor.exe",
+           "WaveEditor"
+       ]
+   ]
+}
