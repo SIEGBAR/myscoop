@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.3.0",
+   "description": "搜索并删除空文件夹。",
+   "url": "https://github.com/SIEGBAR/myscoop/empty-folder-nuker-1.3.0.exe",
+   "hash": "5c1c963f1048cc638e83df49bb6f790fdb76f440",
+   "bin": "empty-folder-nuker-1.3.0.exe",
+   "shortcuts": [
+       [
+           "empty-folder-nuker-1.3.0.exe",
+           "empty-folder-nuker-1.3.0"
+       ]
+   ]
+}

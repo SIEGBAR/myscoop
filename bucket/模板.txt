@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.0.0",
+   "description": "填写",
+   "url": "https://github.com/SIEGBAR/myscoop/",
+   "hash": "填写",
+   "bin": "填写.exe",
+   "shortcuts": [
+       [
+           "填写.exe",
+           "填写"
+       ]
+   ]
+}
