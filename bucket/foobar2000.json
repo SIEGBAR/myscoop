@@ -1,6 +1,6 @@
 {
    "homepage": "https://github.com/SIEGBAR/myapps",
-   "version": "v2.0.0 Final",
+   "version": "v2.0.0_Final",
    "description": "Foobar2000 是一个 Windows 平台下的高级音频播放器.包含完全支持 unicode 及支持播放增益的高级标签功能。特色：
 * 支持的音频格式: MP3, MP4, AAC, CD Audio, WMA, Vorbis,  FLAC, WavPack, WAV, AIFF, Musepack, Speex, AU, SND, 通过第三方插件将支持更多的格式。
 * 完全支持 Unicode
