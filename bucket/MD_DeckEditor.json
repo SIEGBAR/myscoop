@@ -2,13 +2,13 @@
    "homepage": "https://github.com/SIEGBAR/myapps",
    "version": "1.0.0",
    "description": "MD自定义牌组顺序。",
-   "url": "https://github.com/SIEGBAR/myapps/raw/main/MD自定义手牌工具.7z",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/MD_DeckEditor.7z",
    "hash": "865e59cf231fc96cd4bf43548dd4d95fc3ca155893ba54ca911d374e376f2414",
    "bin": "洗牌工具.exe",
    "shortcuts": [
        [
            "洗牌工具.exe",
-           "MD自定义手牌工具"
+           "MD_DeckEditor"
        ]
    ]
 }
