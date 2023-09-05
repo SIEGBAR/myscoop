@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "v2.0.0",
+   "description": "WebDav启动器。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/CHFS_GUI.exe",
+   "hash": "bc49babf5d8c8a759c1c1920b04741d46af68bee3a6300c6298877bf871bd181",
+   "bin": "CHFS_GUI.exe",
+   "shortcuts": [
+       [
+           "CHFS_GUI.exe",
+           "CHFS_GUI"
+       ]
+   ]
+}

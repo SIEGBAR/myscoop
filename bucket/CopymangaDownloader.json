@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "v3.3",
+   "description": "拷贝漫画下载器。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/CopymangaDownloader.exe",
+   "hash": "dd16adc427d93a4cf8ae57c301b56e228f8af66da0450632a2a4e6c370887241",
+   "bin": "CopymangaDownloader.exe",
+   "shortcuts": [
+       [
+           "CopymangaDownloader.exe",
+           "CopymangaDownloader"
+       ]
+   ]
+}
