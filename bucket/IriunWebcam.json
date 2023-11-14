@@ -3,7 +3,7 @@
    "version": "2.8.1",
    "description": "在电脑上使用手机摄像头。",
    "url": "https://github.com/SIEGBAR/myapps/raw/main/IriunWebcam.7z",
-   "hash": "deb49cf6eadb7abea9b118457d26591ad6f093199fdc2bcc371ff0eee23be83f",
+   "hash": "44ae15547203948f05316ef87364f91bb228bbf2f8907505dc58654e87e9fe56",
    "bin": "IriunWebcam.exe",
    "shortcuts": [
        [
