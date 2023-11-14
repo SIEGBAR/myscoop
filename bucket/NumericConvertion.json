@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.1.0",
+   "description": "游戏内存数值转换，修改加密数值用。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/NumericConvertion.exe",
+   "hash": "6ccd1997e8e6f9429b7816b5ccfd793fc42a66d4d1eda9424337c5c4c6032a6f",
+   "bin": "NumericConvertion.exe",
+   "shortcuts": [
+       [
+           "NumericConvertion.exe",
+           "数值转换"
+       ]
+   ]
+}
