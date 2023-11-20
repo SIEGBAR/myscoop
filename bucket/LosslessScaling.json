@@ -1,0 +1,14 @@
+{
+   "homepage": "https://github.com/SIEGBAR/myapps",
+   "version": "1.3.2",
+   "description": "无损缩放，汉化版。",
+   "url": "https://github.com/SIEGBAR/myapps/raw/main/LosslessScaling.7z",
+   "hash": "158724fe166ea7a6e01c714e8af42f71cea8892a72ff71c6c1e5311abec37610",
+   "bin": "LosslessScaling.exe",
+   "shortcuts": [
+       [
+           "LosslessScaling.exe",
+           "LosslessScaling"
+       ]
+   ]
+}
